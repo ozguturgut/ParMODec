@@ -1,0 +1,23 @@
+﻿  MOBB_parallel.cpp
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\child_solve.h(98): warning C4805: '==': unsafe mix of type 'IloBool' and type 'bool' in operation
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\child_solve.h(455): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\child_solve.h(1029): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(83): warning C4805: '==': unsafe mix of type 'IloBool' and type 'bool' in operation
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(114): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'IloInt'
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(114): note: consider using '%lld' in the format string
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(114): note: consider using '%Id' in the format string
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(114): note: consider using '%I64d' in the format string
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(144): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(144): note: consider using '%zd' in the format string
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(145): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'IloInt'
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(145): note: consider using '%lld' in the format string
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(145): note: consider using '%Id' in the format string
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(145): note: consider using '%I64d' in the format string
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(163): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(163): note: consider using '%zd' in the format string
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(164): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\root_solve.h(164): note: consider using '%zd' in the format string
+c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\mobb_parallel.cpp(92): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\ozgu\documents\visual studio 2015\projects 2015\paralleltest_2_assignment_v3\project1\mobb_parallel.cpp(92): note: consider using '%zd' in the format string
+  Project1.vcxproj -> C:\Users\Ozgu\Documents\Visual Studio 2015\Projects 2015\parallelTest_2_Assignment_v3\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Ozgu\Documents\Visual Studio 2015\Projects 2015\parallelTest_2_Assignment_v3\x64\Debug\Project1.pdb (Partial PDB)
